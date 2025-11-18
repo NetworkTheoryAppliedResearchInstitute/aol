@@ -52,7 +52,8 @@ What This Framework IS
  - ✅ Investigation methodology treating ancient claims as testable hypotheses
  - ✅ Participation framework for conscious engagement with cosmic creativity
  - ✅ Integration of ancient wisdom with modern understanding
- - ✅ Rigorous epistemology that maintains uncertainty where appropriate <br>
+ - ✅ Rigorous epistemology that maintains uncertainty where appropriate
+   
 What This Framework IS NOT
  - ❌ Reductionism - We recognize genuine emergence of consciousness, meaning, and ethics
  - ❌ Atheism - We relocate transcendence within natural reality rather than eliminate it
