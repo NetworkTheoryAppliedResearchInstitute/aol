@@ -2,8 +2,8 @@
 ## A Framework for Cross-Community Translation and Cooperation
 
 ### Overview
-The Anthropology of Light is an investigative framework that reinterprets wisdom traditions through naturalistic, energy-based principles while preserving ancient insights. Though developed with significant application to biblical texts using Hebrew etymological methods, AOL provides translation capacity across all wisdom traditions—enabling diverse communities to recognize shared observations despite vocabulary differences.
-This project treats light as a universal reference point that bridges physics, biology, consciousness studies, theology, and ethics across all cultural and religious boundaries. 
+<p>The Anthropology of Light is an investigative framework that reinterprets wisdom traditions through naturalistic, energy-based principles while preserving ancient insights. Though developed with significant application to biblical texts using Hebrew etymological methods, AOL provides translation capacity across all wisdom traditions—enabling diverse communities to recognize shared observations despite vocabulary differences.
+This project treats light as a universal reference point that bridges physics, biology, consciousness studies, theology, and ethics across all cultural and religious boundaries. </p>
 
 Light is simultaneously:
 - Scientifically precise (electromagnetic radiation, measurable, predictable)
