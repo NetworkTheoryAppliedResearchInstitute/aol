@@ -81,10 +81,10 @@ Start with these three documents: <br>
 
 ### For Theological Engagement
 
-Focus on these documents:
-**Reading "Ruach" as Character** - Demonstrates how to reinterpret supernatural language as describing observable patterns
-**The Energy-Recursion Framework** - Provides complete reinterpretation of biblical narrative through thermodynamic principles, including analysis of sin as negative recursion and Jesus as exemplar of positive recursion
-**Faith, Resurrection, and Cosmic-Scale Hypothesis Testing** - Explores faith as commitment to multi-generational investigation and resurrection as achievable through understanding consciousness
+Focus on these documents: <br>
+- **Reading "Ruach" as Character** - Demonstrates how to reinterpret supernatural language as describing observable patterns
+- **The Energy-Recursion Framework** - Provides complete reinterpretation of biblical narrative through thermodynamic principles, including analysis of sin as negative recursion and Jesus as exemplar of positive recursion
+- **Faith, Resurrection, and Cosmic-Scale Hypothesis Testing** - Explores faith as commitment to multi-generational investigation and resurrection as achievable through understanding consciousness
 
 ### For Scientific/Philosophical Engagement
 
@@ -100,7 +100,8 @@ The documents in this repository represent crystallized insights from ongoing in
 These conversations demonstrate the investigative process in action—showing how antinodes emerge through rigorous questioning, how nodes are acknowledged when perspectives cancel out, and how the framework adapts based on evidence and critique.
 
 ### A Note on AI-Assisted Development
-This framework emerged through dialogue between human investigation (Afi) and AI assistance (Claude). This collaborative approach offers both unique advantages and important limitations: <br>
+This framework emerged through dialogue between human investigation (Afi) and AI assistance (Claude). This collaborative approach offers both unique advantages and important limitations:
+
 **Advantages**:
 1. Access to distributed knowledge: AI can synthesize across vast bodies of human knowledge without requiring years of individual study
 2. No theological defensiveness: AI lacks emotional investment in particular metaphysical positions, enabling more neutral pattern recognition
@@ -156,10 +157,10 @@ This framework provides theological and philosophical foundations for:
 Released under AGPL-3.0 to prevent proprietary capture while enabling collaborative development. This work is freely available for study, modification, and distribution with the requirement that derivative works remain open.
 
 ## Contact & Community
-Organization: NTARI (Network Theory Applied Research Institute)
-Status: 501(c)(3) nonprofit
-[Website:](https://www.ntari.org)
-[Node Nexus:](https://www.ntari.org/node-nexus/categories/anthropology-of-light)
+- Organization: NTARI (Network Theory Applied Research Institute)
+- Status: 501(c)(3) nonprofit
+- [NTARI Website](https://www.ntari.org)
+- [Node Nexus](https://www.ntari.org/node-nexus/categories/anthropology-of-light)
 
 
 ## Acknowledgments
